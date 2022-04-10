@@ -1,7 +1,7 @@
 [custom]
 ;不要随意改变关键字，否则会导致出错
 ;自定义规则
-surge_ruleset=🛑 特殊网站,https://raw.githubusercontent.com/Microactive/clash_config/master/googleplay.list
+surge_ruleset=🛑 特殊网站,https://raw.githubusercontent.com/luoxi128/bywave_myrule/main/googleplay_domain
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/Microactive/clash_config/master/custom_not_proxy.list
 surge_ruleset=📺 国外影视,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 surge_ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
